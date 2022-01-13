@@ -1,0 +1,4 @@
+config NANOCBOR
+    bool "NanoCBOR Support"
+    help
+        This option enable NanoCBOR support. This is required by libcose
